@@ -30,3 +30,4 @@ User Story #14: On regular sized devices (laptops, desktops), the element with i
 
 User Story #15: My Technical Documentation page should use at least one media query.
 
+Link to completed project in code pen: https://codepen.io/Lekanbabs/pen/MLPjrK
